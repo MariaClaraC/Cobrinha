@@ -23,8 +23,12 @@
 Primeiramente, você precisa copiar e colocar este link no seu README.md, trocando o **SEUNOME** pelo seu nome de usuário.
 
     ![github contribution grid snake animation](https://raw.githubusercontent.com/SEUNOME/SEUNOME/output/github-contribution-grid-snake.svg)
+<br>
 
-  <br>
 Após, entre na barra **actions** e clique no **"set up a workflow yourself"**
   
-  ![](https://cdn.discordapp.com/attachments/895041648281649172/895053268135346196/NewCanvas1.png)
+  ![](https://cdn.discordapp.com/attachments/895041648281649172/895064610489630781/NewCanvas1.png)
+
+Retire tudo que tem naquele arquivo e cole o [código desse link](https://github.com/MariaClaraC/MariaClaraC/blob/main/.github/workflows/snake.yml), trocando o **MariaClaraC** pelo seu nome de usuário. e clique no **Start Commit** e **Commit new file**
+
+ ![](https://cdn.discordapp.com/attachments/895041648281649172/895066374039273532/NewCanvas1.png)
