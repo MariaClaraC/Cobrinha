@@ -1,3 +1,5 @@
-# Cobrinha
+<sections align="center">
+  <img src="https://cdn.discordapp.com/attachments/895041648281649172/895042037815074856/github-contribution-grid-snake.gif">
+  
+</sections>
 
-  ![Snake animation](https://github.com/MariaClaraC/Cobrinha/tree/main/.github/workflows)
