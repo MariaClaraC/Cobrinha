@@ -18,7 +18,19 @@
 
 ㅤDescobri que tem dois jeitos de fazer o jogo da cobrinha, o Manual e o mais fácil. Faz o que você achar melhor. 
 
-## Manual
+## Método mais fácil
+
+Copie esse link e coloque este link no seu README.md, trocando o **SEUNOME** pelo seu nome de usuário.
+  
+       https://raw.githubusercontent.com/SEUNOME/SEUNOME/output/github-contribution-grid-snake.svg
+  
+## Resultado:
+  ![](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
+
+  ... só '-'
+  ----- 
+  
+## Método Manual
 
 Primeiramente, você precisa copiar e colocar este link no seu README.md, trocando o **SEUNOME** pelo seu nome de usuário.
 
@@ -38,4 +50,12 @@ Após, entre na barra **actions** e clique no **"set up a workflow yourself"**
 
 ## Resultado:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
+
+## Créditos 
+  
+  - [Platane](https://github.com/Platane/snk), por ter desponibilizado esse joguinho da cobra do método mais facil! Para se aprofundar mais no assunto, tem o link do repositório mostrando os códigos.
+  [platane.github.io/snk](https://platane.github.io/snk)
+  
+  - https://www.instagram.com/p/CPjUBhXDNEE/
+  - https://www.youtube.com/watch?v=kgo-4Nf3BYs
 
