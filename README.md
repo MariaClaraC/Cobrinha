@@ -32,3 +32,7 @@ Após, entre na barra **actions** e clique no **"set up a workflow yourself"**
 Retire tudo que tem naquele arquivo e cole o [código desse link](https://github.com/MariaClaraC/MariaClaraC/edit/main/.github/workflows/snake.yml), trocando o **SEUNOME** pelo seu nome de usuário. e clique no **Start Commit** e **Commit new file**
 
  ![](https://cdn.discordapp.com/attachments/895041648281649172/895066374039273532/NewCanvas1.png)
+  
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
+
