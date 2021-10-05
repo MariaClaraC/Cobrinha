@@ -20,6 +20,11 @@
 
 ## Manual
 
-Primeiramente, você precisa colocar este link no seu README.md, trocando o **SEUNOME** pelo seu nome de usuário.
+Primeiramente, você precisa copiar e colocar este link no seu README.md, trocando o **SEUNOME** pelo seu nome de usuário.
 
     ![github contribution grid snake animation](https://raw.githubusercontent.com/SEUNOME/SEUNOME/output/github-contribution-grid-snake.svg)
+
+  <br>
+Após, entre na barra **actions** e clique no **"set up a workflow yourself"**
+  
+  ![](https://cdn.discordapp.com/attachments/895041648281649172/895053268135346196/NewCanvas1.png)
