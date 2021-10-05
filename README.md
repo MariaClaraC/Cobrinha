@@ -29,10 +29,13 @@ Após, entre na barra **actions** e clique no **"set up a workflow yourself"**
   
   ![](https://cdn.discordapp.com/attachments/895041648281649172/895064610489630781/NewCanvas1.png)
 
-Retire tudo que tem naquele arquivo e cole o [código desse link](https://github.com/MariaClaraC/Cobrinha/blob/main/.github/workflows/blank.yml), trocando o **SEUNOME** pelo seu nome de usuário. e clique no **Start Commit** e **Commit new file**
+  Retire tudo que tem naquele arquivo e cole o [código desse link](https://github.com/MariaClaraC/Cobrinha/blob/main/.github/workflows/blank.yml), trocando o **SEUNOME** pelo seu nome de usuário. e clique no **Start Commit** e **Commit new file**
 
- ![](https://cdn.discordapp.com/attachments/895041648281649172/895066374039273532/NewCanvas1.png)
+
+![](https://cdn.discordapp.com/attachments/895041648281649172/895070008873451530/NewCanvas1.png)
   
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
+  Se tudo for feito corretamente, já aparece o jogo ca cobrinha no seu perfil. Mas, se não der certo, clique em **actions**,  **Generate Datas** e **Run workflow**. Espere um pouco e já deve aparecer no seu perfi.
+
+## Resultado:
+![github contribution grid snake animation](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
 
