@@ -22,7 +22,7 @@
 
 Copie esse link e coloque este link no seu README.md, trocando o **SEUNOME** pelo seu nome de usuário.
   
-       https://raw.githubusercontent.com/SEUNOME/SEUNOME/output/github-contribution-grid-snake.svg
+       ![Snake animation](https://raw.githubusercontent.com/SEUNOME/SEUNOME/output/github-contribution-grid-snake.svg)
   
 ## Resultado:
   ![](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
