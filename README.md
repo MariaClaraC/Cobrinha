@@ -25,7 +25,7 @@ Copie esse link e coloque este link no seu README.md, trocando o **SEUNOME** pel
        ![Snake animation](https://raw.githubusercontent.com/SEUNOME/SEUNOME/output/github-contribution-grid-snake.svg)
   
 ## Resultado:
-  ![](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/MariaClaraC/MariaClaraC/output/github-contribution-grid-snake.svg)
 
   ... só '-'
   ----- 
@@ -49,7 +49,7 @@ Após, entre na barra **actions** e clique no **"set up a workflow yourself"**
   Se tudo for feito corretamente, já aparece o jogo ca cobrinha no seu perfil. Mas, se não der certo, clique em **actions**,  **Generate Datas** e **Run workflow**. Espere um pouco e já deve aparecer no seu perfi.
 
 ## Resultado:
-![github contribution grid snake animation](https://raw.githubusercontent.com/MariaClaraC/Cobrinha/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/MariaClaraC/MariaClaraC/output/github-contribution-grid-snake.svg)
 
 ## Créditos 
   
