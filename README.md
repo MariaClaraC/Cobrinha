@@ -16,19 +16,20 @@
 
 <h6>Apesar que em guia para deixar o perfil não seria nada mal ne? vou fazer depois um ⁺✧(˶´꒳´˵)⁺‧</h6
 
-ㅤDescobri que tem dois jeitos de fazer o jogo da cobrinha, o Manual e o mais fácil. Faz o que você achar melhor. 
+ㅤ<!--Descobri que tem dois jeitos de fazer o jogo da cobrinha, o Manual e o mais fácil. Faz o que você achar melhor.-->
 
-## Método mais fácil
+
+ <!-- ## Método mais fácil
 
 Copie esse link e coloque este link no seu README.md, trocando o **SEUNOME** pelo seu nome de usuário.
   
        ![Snake animation](https://raw.githubusercontent.com/SEUNOME/SEUNOME/output/github-contribution-grid-snake.svg)
-  
+
 ## Resultado:
   ![](https://raw.githubusercontent.com/MariaClaraC/MariaClaraC/output/github-contribution-grid-snake.svg)
 
   ... só '-'
-  ----- 
+  ----- -->
   
 ## Método Manual
 
