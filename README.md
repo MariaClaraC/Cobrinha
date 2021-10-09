@@ -47,8 +47,9 @@ Após, entre na barra **actions** e clique no **"set up a workflow yourself"**
 
 ![](https://cdn.discordapp.com/attachments/895041648281649172/895070008873451530/NewCanvas1.png)
   
-  Se tudo for feito corretamente, já aparece o jogo ca cobrinha no seu perfil. Mas, se não der certo, clique em **actions**,  **Generate Datas** e **Run workflow**. Espere um pouco e já deve aparecer no seu perfi.
+  Clique em **actions**,  **Generate Datas** e **Run workflow**. Espere um pouco e, se tudo for feito corretamente, já aparece o jogo da cobrinha no seu perfil.
 
+  
 ## Resultado:
 ![github contribution grid snake animation](https://raw.githubusercontent.com/MariaClaraC/MariaClaraC/output/github-contribution-grid-snake.svg)
 
